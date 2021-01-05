@@ -1,0 +1,19 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\kitapOtomasyon_odev\kitapOtomasyon_odev\bin\Debug\kitapOtomasyon_odev.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\kitapOtomasyon_odev\kitapOtomasyon_odev\bin\Debug\kitapOtomasyon_odev.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\kitapOtomasyon_odev\kitapOtomasyon_odev\bin\Debug\kitapOtomasyon_odev.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.pdb
+E:\Eski Calismalar\kitapOtomasyon_odev\kitapOtomasyon_odev\bin\Debug\kitapOtomasyon_odev.exe.config
+E:\Eski Calismalar\kitapOtomasyon_odev\kitapOtomasyon_odev\bin\Debug\kitapOtomasyon_odev.exe
+E:\Eski Calismalar\kitapOtomasyon_odev\kitapOtomasyon_odev\bin\Debug\kitapOtomasyon_odev.pdb
+E:\Eski Calismalar\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.Form1.resources
+E:\Eski Calismalar\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.Properties.Resources.resources
+E:\Eski Calismalar\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.csproj.GenerateResource.Cache
+E:\Eski Calismalar\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.csproj.CoreCompileInputs.cache
+E:\Eski Calismalar\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.exe
+E:\Eski Calismalar\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.pdb
+E:\Eski Calismalar\kitapOtomasyon_odev\kitapOtomasyon_odev\obj\Debug\kitapOtomasyon_odev.csprojAssemblyReference.cache
